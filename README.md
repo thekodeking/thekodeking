@@ -1,8 +1,6 @@
 <h1 align="center">About K0D3L0GG3R A.K.A KR1SHNA</h1>
 <h3 align="center">Sophomore | Budding SoftDev | AI , ML Enthusiast | Sprouting Indie GameDev </h3>
-<h6 align="left"> root:~$ Learning various programming languages and frameworks ...</h6>
-<h6 align="left"> root:~$ Learning to make Assets for games ...</h6>
-<h6 align="left"> root:~$ ThinKing ...</h6>
+<h5 align="center"> Learning various programming languages and frameworks | Learning to make Game Assets | Thinking ...</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kode-logger&label=Profile%20views&color=0eb413&style=flat" alt="kode-logger" /> </p>
 
@@ -16,7 +14,7 @@
 
 - 📫 How to reach me **nkrishnaraj.developer@gmail.com**
 
-- ⚡ Fun fact **I don't like to SLEEP but I am Lazy 🤷**
+- ⚡ Fun fact **I play MineCraft **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
