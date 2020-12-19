@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kode-logger](https://github.com/kode-logger)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/kode-logger)
 
 - 💬 Ask me about **Java, HTML5, CSS3, C++ 98**
 
