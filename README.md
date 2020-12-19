@@ -1,5 +1,5 @@
 <h1 align="center">About K0D3L0GG3R A.K.A KR1SHNA</h1>
-<h3 align="center">A Sophomore, Budding SoftDev from India</h3>
+<h3 align="center">Sophomore | Budding SoftDev | AI , ML Enthusiast | Budding Indie GameDev </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kode-logger&label=Profile%20views&color=0eb413&style=flat" alt="kode-logger" /> </p>
 
