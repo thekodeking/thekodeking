@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kode-logger&label=Profile%20views&color=0eb413&style=flat" alt="kode-logger" /> </p>
 
-- 🔭 I’m currently preparing for my **Final Assessment Test** of Third Semester.
+- 🔭 I’m currently **Thinking Deep**.
 
 - 🌱 I’m currently learning **Django**
 
