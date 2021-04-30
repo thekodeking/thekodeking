@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kode-logger&label=Profile%20views&color=0eb413&style=flat" alt="kode-logger" /> </p>
 
-- 🔭 I’m currently **focusing on Semester courses**.
+- 🔭 I’m currently **booting up**.
 
 - 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/kode-logger)
 
-- 💬 Ask me about **Java, HTML5, CSS3, C++ 98**
+- 💬 Ask me about **Java, HTML5, CSS3, C++ 98, Django**
 
 - 📫 How to reach me **nkrishnaraj.developer@gmail.com**
 
