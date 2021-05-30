@@ -1,4 +1,4 @@
-<h1 align="center">About K0D3L0GG3R A.K.A KR1SHNA</h1>
+<h1 align="center">About  KRISHNA RAJ / kode-logger</h1>
 <h3 align="center">Sophomore | Budding SoftDev | AI , ML Enthusiast | Sprouting Indie GameDev </h3>
 <h5 align="center"> Learning various programming languages and frameworks | Learning to make Game Assets | Thinking ...</h5>
 
