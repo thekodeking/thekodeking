@@ -1,5 +1,5 @@
 <h1 align="center">About  KRISHNA RAJ / kode-logger</h1>
-<h3 align="center">Sophomore | Budding SoftDev | AI , ML Enthusiast | Sprouting Indie GameDev </h3>
+<h3 align="center">Sophomore | Budding SoftDev | AI , ML Enthusiast | Trying out Indie GameDeveloping </h3>
 <h5 align="center"> Learning various programming languages and frameworks | Learning to make Game Assets | Thinking ...</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kode-logger&label=Profile%20views&color=0eb413&style=flat" alt="kode-logger" /> </p>
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **nkrishnaraj.developer@gmail.com**
 
-- ⚡ Fun fact **I play MineCraft**
+- ⚡ Fun fact **I play Minecraft, Maybe we can defeat the Ender Dragon together xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
