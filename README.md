@@ -74,6 +74,8 @@
     <a href="https://www.codechef.com/users/n_krishna_raj" target="_blank"><img src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/codechef.svg?token=ANGAKYKH26GKX6SZKF5KAL3A33OSQ" alt="CodeChef" widht="80" height="80"></a>
     <a href="https://www.sololearn.com/profile/5524697" target="_blank"><img src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/sololearn.svg?token=ANGAKYOALD53YZQYGBVL2QDA33O54" alt="SoloLearn" widht="80" height="80"></a>
     <a href="https://exercism.io/" target="_blank"><img src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/exercism.svg?token=ANGAKYPP467KIV6RJZQLVCDA33O7S" alt="Exercism" widht="80" height="80"></a>
+    <a href="https://www.instagram.com/kodereaper/" target="_blank"><img src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/instagram.svg?token=ANGAKYIIVTUPIGS47R77J43A4GGP2" alt="Instagram" width="80" height="80"></a>
+    <a href=mailto: nkrishnaraj.developer@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/gmail.svg?token=ANGAKYN3GWFN52WAKH3QD23A4GHR4" alt="Gmail" width="80" height="80"></a>
 </p>
 <br>
 
