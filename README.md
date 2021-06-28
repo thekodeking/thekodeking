@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kode-logger&label=Profile%20views&color=0eb413&style=flat" alt="kode-logger" /> </p>
 
-- [ ] 🌀 I am currently **booting up**.
+- [ ] 🌀 I am currently **Writing some Documentation for my OSCHUB project. By the way, make sure to check it out.**.
 
 - [ ] 🌱 I am learning **JavaScript** for now.
 
