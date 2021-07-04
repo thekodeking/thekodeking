@@ -12,7 +12,7 @@
 
 - [ ] 💬 Ask me about **My Projects or Anything that I might be able to help you with**.
 
-- [ ] 📫 How to reach me **nkrishnaraj.developer@gmail.com** or check out the ** Connect with Me** section below.
+- [ ] 📫 How to reach me **nkrishnaraj.developer@gmail.com** or check out the **Connect with Me** section below.
 
 - [ ] 🎮 Fun fact **I play Minecraft, Maybe we can defeat the Ender Dragon together xD**
 
