@@ -4,9 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kode-logger&label=Profile%20views&color=0eb413&style=flat" alt="kode-logger" /> </p>
 
-- [ ] 🌀 I am currently **Thinking what to do next**.
+- [ ] 🌀 I am currently **Taking a Break**.
 
-- [ ] 🌱 I am learning **JavaScript** for now.
+- [ ] 🌱 I am learning **Web Development** for now.
 
 - [ ] 👨‍💻 All of my projects are available at [Github](https://github.com/kode-logger), Trust me I will add them soon.
 
