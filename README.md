@@ -16,6 +16,8 @@
 
 - [ ] 🎮 Fun fact **I play Minecraft, Maybe we can defeat the Ender Dragon together xD**
 
+PS: Want to know more about me? Then, make sure to checkout my LinkedIn profile. Scroll Down to the End to connect with me.
+
 <h2 align="center">💻 Programming & Scripting Languages </h2><br>
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/python.svg" alt="Python" width="80" height="80" title="Python"></a>
