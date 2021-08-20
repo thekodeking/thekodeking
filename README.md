@@ -4,11 +4,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kode-logger&label=Profile%20views&color=0eb413&style=flat" alt="kode-logger" /> </p>
 
-- [ ] 🌀 I am currently **Taking a Break**.
+- [ ] 🌀 I am currently **Looking for Internship**.
 
 - [ ] 🌱 I am learning **Web Development** for now.
 
-- [ ] 👨‍💻 All of my projects are available at [Github](https://github.com/kode-logger), Trust me I will add them soon.
+- [ ] 👨‍💻 All of my projects are available at [Github](https://github.com/kode-logger), Trust me I will add more soon.
 
 - [ ] 💬 Ask me about **My Projects or Anything that I might be able to help you with**.
 
