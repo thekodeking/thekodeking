@@ -1,5 +1,5 @@
 <h1 align="center">About  KRISHNA RAJ, ( #kode-logger)</h1>
-<h3 align="center">Sophomore | Budding SoftDev | AI , ML Enthusiast | Gathering Skills </h3>
+<h3 align="center">Junior | Budding SoftDev | AI , ML Enthusiast | Gathering Skills </h3>
 <h5 align="center"> Learning Programming Languages and Frameworks | Trying to make Game Assets | Thinking ...</h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kode-logger&label=Profile%20views&color=0eb413&style=flat" alt="kode-logger" /> </p>
