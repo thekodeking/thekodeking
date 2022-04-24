@@ -1,169 +1,66 @@
-<h1 align="center">About  KRISHNA RAJ, ( #kode-logger)</h1>
-<h3 align="center">Junior | Budding SoftDev | AI , ML Enthusiast | Gathering Skills </h3>
-<h5 align="center"> Learning Programming Languages and Frameworks | Trying to make Game Assets | Thinking ...</h5>
+Hi 👋 My name is KodeLogger
+===========================
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kode-logger&label=Profile%20views&color=0eb413&style=flat" alt="kode-logger" /> </p>
+Budding Software Engineer
+-------------------------
 
-- [ ] 🌀 I am currently **Looking for Internship**.
+A die-hard programmer, and software designer dedicating his time and skills to helping people to develop the civilization. He started his programming journey in 2018 with C++ 98, since then programming has always been fun and exciting for him.
 
-- [ ] 🌱 I am learning **Web Development** for now.
+* 🌍  I'm based in Tamil Nadu, India
+* ✉️  You can contact me at [nkrishnaraj.developer@gmail.com](mailto:nkrishnaraj.developer@gmail.com)
+* 🧠  I'm learning Nodejs, ReactJs, Kotlin.
+* 🤝  I'm open to collaborating on Open Source Projects.
+* ⚡  I love Game Development, especially the Pixel Art Indie Genre.
 
-- [ ] 👨‍💻 All of my projects are available at [Github](https://github.com/kode-logger), Trust me I will add more soon.
+<a href="https://www.github.com/kode-logger" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/kode-logger?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 
-- [ ] 💬 Ask me about **My Projects or Anything that I might be able to help you with**.
+### Skills
 
-- [ ] 📫 How to reach me **nkrishnaraj.developer@gmail.com** or check out the **Connect with Me** section below.
-
-- [ ] 🎮 Fun fact **I play Minecraft, Maybe we can defeat the Ender Dragon together xD**
-
-PS: Want to know more about me? Then, make sure to checkout my LinkedIn profile. Scroll Down to the End to connect with me.
-
-<h2 align="center">💻 Programming & Scripting Languages </h2><br>
-<p align="center">
-    <a href="https://www.python.org/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/python.svg"
-            alt="Python" width="80" height="80" title="Python"></a>
-    <a href="https://www.java.com/en/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/java.svg"
-            alt="Java" width="80" height="80" title="Java"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/html5.svg"
-            alt="HTML" width="80" height="80" title="HTML"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/css3.svg"
-            alt="CSS" width="80" height="80" title="CSS"></a>
-    <a href="https://www.php.net/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/php.svg" alt="PHP"
-            width="80" height="80" title="PHP"></a>
-    <a href="https://www.mysql.com/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/mysql.svg"
-            alt="MySQL" width="80" height="80" title="MySQL"></a>
-    <a href="https://isocpp.org/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/c%2B%2B.svg"
-            alt="C++" width="80" height="80" title="C++"></a>
-    <a href="https://www.mathworks.com/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/matlab.svg"
-            alt="Matlab" width="80" height="80" title="Matlab"></a>
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-<p align="center">
-    <a href="https://www.r-project.org/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/r.svg"
-            alt="R Language" width="80" height="80" title="R Language"></a>
-</p>
-<br>
 
-<h2 align="center">🧰 Tools </h2><br>
-<p align="center">
-    <a href="https://www.arduino.cc/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/arduino.svg"
-            alt="Arduino" width="80" height="80" title="Arduino"></a>
-    <a href="https://code.visualstudio.com/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/vscode.svg"
-            alt="Visual Studio Code" width="80" height="80" title="Visual Studio Code"></a>
-    <a href="https://git-scm.com/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/git.svg" alt="Git"
-            width="80" height="80" title="Git"></a>
-    <a href="https://github.com/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/github.svg"
-            alt="Github" width="80" height="80" title="GitHub"></a>
-    <a href="https://atom.io/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/atom.svg"
-            alt="Atom Editor" width="80" height="80" title="Atom Editor"></a>
-    <a href="https://www.raspberrypi.org/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/raspberrypi.svg"
-            alt="Raspberry Pi" width="80" height="80" title="Raspberry Pi"></a>
-    <a href="https://unity.com/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/unity.svg"
-            alt="Unity Game Engine" width="80" height="80" title="Unity Game Engine"></a>
-    <a href="https://www.adobe.com/in/products/photoshop.html?sdid=SGDJMMG3&mv=search&ef_id=EAIaIQobChMI4PPkw9-w8QIVwjUrCh2LUwpdEAAYASAAEgIrOPD_BwE:G:s&s_kwcid=AL!3085!3!444587836523!b!!g!!%2Bphoto%20%2Bshop!221441468!17534748188&gclid=EAIaIQobChMI4PPkw9-w8QIVwjUrCh2LUwpdEAAYASAAEgIrOPD_BwE"
-       target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/photoshop.svg"
-            alt="Photoshop" width="80" height="80" title="Photoshop"></a>
-</p>
-<p align="center">
-    <a href="https://www.jetbrains.com/idea/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/intellij.svg"
-            alt="Intellij" width="80" height="80" title="Intellij Jetbrains"></a>
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/pycharm.svg"
-            alt="PyCharm" width="80" height="80" title="PyChram Jetbrains"></a>
-    <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/webstorm.svg"
-            alt="WebStrom" width="80" height="80" title="WebStorm Jetbrains"></a>
-    <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/phpstorm.svg"
-            alt="PhpStorm" width="80" height="80" title="PhpStorm Jetbrains"></a>
-    <a href="https://www.blender.org/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/blender.svg"
-            alt="Blender" width="80" height="80" title="Blender"></a>
-    <a href="https://www.virtualbox.org/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/virtualbox.svg"
-            alt="VirtualBox" width="80" height="80" title="Virtual Box"></a>
-    <a href="https://obsproject.com/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/obs_studio.svg"
-            alt="OBS Studio" width="80" height="80" title="OBS Studio"></a>
-    <a href="https://www.apachefriends.org/index.html" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/xampp.svg"
-            alt="XAMPP" width="80" height="80" title="XAMPP"></a>
-</p>
-<p align="center">
-    <a href="https://www.rstudio.com/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/rstudio.svg"
-            alt="R Studio" width="80" height="80" title="R Studio IDE"></a>
-</p>
-<br>
+### Socials
 
-<h2 align="center">⚙️ Frameworks</h2>
-<p align="center">
-    <a href="https://www.djangoproject.com/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/django.svg"
-            alt="Django" width="80" height="80" title="Django"></a>
-    <a href="https://opencv.org/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/opencv.svg"
-            alt="OpenCV" width="80" height="80" title="OpenCV"></a>
-    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/flask.svg"
-            alt="Flask" width="80" height="80" title="Flask"></a>
-    <a href="https://getbootstrap.com/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/bootstrap.svg"
-            alt="Bootstrap" width="80" height="80" title="Bootstrap"></a>
-    <a href="https://angular.io/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/angularjs.svg"
-            alt="AngularJS" width="80" height="80" title="AngularJS"></a>
-</p>
-<br>
+<p align="left"> 
+    <a href="https://discord.com/users/KodeKing#7759" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+    <a href="https://www.github.com/kode-logger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+    <a href="http://www.instagram.com/_kodeking_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
-<h2 align="center">🔗 Connect with me:</h2>
-<p align="center">
-    <a href="https://www.hackerrank.com/kodelogger" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/hackerrank.svg"
-            alt="Hackerrank" width="80" height="80" title="Hackerranks"></a>
-    <a href="https://www.codechef.com/users/n_krishna_raj" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/codechef.svg"
-            alt="CodeChef"
-            width="80" height="80" title="Codechef"></a>
-    <a href="https://www.sololearn.com/profile/5524697" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/sololearn.svg"
-            alt="SoloLearn"
-            width="80" height="80" title="Sololearn"></a>
-    <a href="https://exercism.io/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/exercism.svg"
-            alt="Exercism"
-            width="80" height="80" title="Exercism"></a>
-    <a href="https://www.instagram.com/kodereaper/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/instagram.svg"
-            alt="Instagram" width="80" height="80" title="Instagram"></a>
-    <a href=mailto: nkrishnaraj.developer@gmail.com" target="_blank"><img
-        src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/gmail.svg" alt="Gmail"
-        width="80" height="80" title="Gmail"></a>
-    <a href="https://www.linkedin.com/in/n-krishna-raj-746688127/" target="_blank"><img
-            src="https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/kode-logger/linkedin.svg"
-            alt="LinkedIn" width="80" height="80" title="LinkedIn"></a>
-</p>
-<br>
+### Badges
 
-<p align="center">
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=kode-logger&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en"
-         alt="kode-logger"/>
-</p>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/kode-logger"><img src="https://github-readme-stats.vercel.app/api?username=kode-logger&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="kode-logger's GitHub stats" /></a>
+
+<a href="http://www.github.com/kode-logger"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kode-logger&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<!-- <a href="http://www.github.com/kode-logger"><img src="https://activity-graph.herokuapp.com/graph?username=kode-logger&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+
+<a href="https://github.com/kode-logger" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kode-logger&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
