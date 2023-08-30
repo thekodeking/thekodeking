@@ -1,9 +1,6 @@
 Hi 👋 My name is KodeLogger
 ===========================
 
-Budding Software Engineer
--------------------------
-
 A die-hard programmer, and software designer dedicating his time and skills to helping people to develop the civilization. He started his programming journey in 2018 with C++ 98, since then programming has always been fun and exciting for him.
 
 * 🌍  I'm based in Tamil Nadu, India
