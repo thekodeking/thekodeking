@@ -1,4 +1,4 @@
-Hi 👋 My name is KodeLogger
+Hi 👋 My name is KodeKing
 ===========================
 
 A die-hard programmer, and software designer dedicating his time and skills to helping people to develop the civilization. He started his programming journey in 2018 with C++ 98, since then programming has always been fun and exciting for him.
@@ -10,7 +10,7 @@ A die-hard programmer, and software designer dedicating his time and skills to h
 * ⚡  I love Game Development, especially the Pixel Art Indie Genre.
 
 <a href="https://www.github.com/kode-logger" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kode-logger?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/thekodeking?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 
 ### Skills
 
