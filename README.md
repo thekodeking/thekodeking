@@ -5,7 +5,7 @@ A die-hard programmer, and software designer dedicating his time and skills to h
 
 * 🌍  I'm based in Tamil Nadu, India
 * ✉️  You can contact me at [nkrishnaraj.developer@gmail.com](mailto:nkrishnaraj.developer@gmail.com)
-* 🧠  I'm learning Kotlin.
+* 🧠  I'm learning FastAPI.
 * 🤝  I'm open to collaborating on Open Source Projects.
 * ⚡  I love Game Development, especially the Pixel Art Indie Genre.
 
