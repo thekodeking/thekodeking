@@ -9,7 +9,7 @@ A die-hard programmer, and software designer dedicating his time and skills to h
 * 🤝  I'm open to collaborating on Open Source Projects.
 * ⚡  I love Game Development, especially the Pixel Art Indie Genre.
 
-<a href="https://www.github.com/kode-logger" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/thekodeking" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thekodeking?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 
 ### Skills
@@ -47,6 +47,6 @@ src="https://img.shields.io/github/followers/thekodeking?logo=github&style=for-t
 
 <p align="left"> 
     <a href="https://discord.com/users/KodeKing#7759" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-    <a href="https://www.github.com/kode-logger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+    <a href="https://www.github.com/thekodeking" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
     <a href="http://www.instagram.com/_kodeking_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
