@@ -50,3 +50,6 @@ src="https://img.shields.io/github/followers/thekodeking?logo=github&style=for-t
     <a href="https://www.github.com/thekodeking" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
     <a href="http://www.instagram.com/_kodeking_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
+<p align="center">
+<a href="https://app.daily.dev/thekodeking"><img src="https://api.daily.dev/devcards/v2/4qv8xenuYjzV0jlFY8j7T.png?type=wide&r=c16" width="652" alt="Kode King's Dev Card"/></a>
+</p>
