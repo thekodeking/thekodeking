@@ -36,6 +36,4 @@ Since then, I've been chasing that spark across languages, frameworks, and the o
 
 ---
 
-> “Some people write code to ship features. I write code to watch it all burn :)”  
-
 By the way, I use Arch :)
