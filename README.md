@@ -1,39 +1,44 @@
-# Hey there 👋 I'm KodeKing
+# hey, i'm Krishna 👋
 
-> Just a curious mind with a keyboard and a love for elegant chaos.
+> *currently making sure the fintech auth system doesn't crash ;)*
+
+they call me a backend engineer . but - i build things, break things, occasionally make them faster · I use arch linux btw.
+
+
+## stack
+
+```
+core    →  Python · Django · Go · PostgreSQL · Redis
+auth    →  LDAP · AzureAD · OAuth 2.0 · Device auth flows
+ops     →  Docker · Linux internals · Git
+setup   →  Arch Linux + Neovim (lua config)
+```
+
+
+## interests
+
+Systems programming, compiled languages, and understanding what actually happens below the abstraction. The kind of problems where performance and correctness aren't optional.
+
+
+
+## things i've shipped
+
+› **[django-keysmith](https://github.com/thekodeking/django-keysmith)**
+  Enterprise API key management for Django. Rotation policies, scope-based permissions, rate-limiting, audit trails.
+
+PS: I will ship more personal projects soon, I promise 👀
+
+
+## outside terminal life
+
+- 🎵 making beats in FL Studio that'll probably never see a release
+- 📖 reading Andy Weir — currently convinced I'd survive on Mars
+- 🎮 slowly building an indie game *(emphasis on slowly)*
+- 🫖 poking at Blender until something vaguely 3D appears
+- 🏎️ watching F1 and quietly suffering as a **#LH44** fan
+
 ---
 
-Back in 2017, I stumbled into the world of programming through the maze that is C++98. What started as confusion over how an OS even breathes turned into an obsession with figuring out how things *really* tick under the hood. Sure, I’ve forgotten some of those gnarly concepts — but the curiosity stuck around like a good bug in production.
+**[github](https://github.com/thekodeking)** · **[linkedin](https://linkedin.com/in/n-krishna-raj/)** · **[site](https://thekodeking.github.io/)** · **[mail](mailto:nkrishnaraj.developer@gmail.com)**
 
-Since then, I've been chasing that spark across languages, frameworks, and the occasional art. From backend APIs to indie-style pixel art games, I build stuff because it's fun and solve problems that could help someone.
-
----
-
-### 🔧 What I Play With
-
-- Python, and used to work on C++, Java and Go lang
-- Django; also aware of FastAPI and Flask
-- PostgreSQL, MySQL
-- HTML, CSS and TailwindCSS
-- Game dev (still exploring) when I need to feel alive 🎮
-
----
-
-- 📍 Based in Tamil Nadu, India  
-- 📬 Reach me: [nkrishnaraj.developer@gmail.com](mailto:nkrishnaraj.developer@gmail.com)  
-- 🤝 Always up for open source collabs  
-- ⚡ Fun fact: I love pixel art and secretly dream of making my own indie game
-
----
-
-### 🌐 Socials
-
-[GitHub](https://github.com/thekodeking) • [Instagram](https://instagram.com/altruistickrish) 
-
-<p align="center">
-<a href="https://app.daily.dev/thekodeking"><img src="https://api.daily.dev/devcards/v2/4qv8xenuYjzV0jlFY8j7T.png?type=wide&r=c16" width="652" alt="Kode King's Dev Card"/></a>
-</p>
-
----
-
-By the way, I use Arch :)
+<sub> >_< &nbsp; sudo make me a sandwich! </sub>
