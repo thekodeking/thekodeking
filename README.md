@@ -32,7 +32,7 @@ PS: I will ship more personal projects soon, I promise 👀
 ## outside terminal life
 
 - 🎵 making beats in FL Studio that'll probably never see a release
-- 📖 reading Andy Weir — currently convinced I'd survive on Mars
+- 📖 reading Andy Weir - currently convinced I'd survive on Mars
 - 🎮 slowly building an indie game *(emphasis on slowly)*
 - 🫖 poking at Blender until something vaguely 3D appears
 - 🏎️ watching F1 and quietly suffering as a **#LH44** fan
