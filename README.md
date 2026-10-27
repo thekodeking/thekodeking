@@ -9,6 +9,7 @@ they call me a backend engineer . but - i build things, break things, occasional
 
 ```
 core    →  Python · Django · Go · PostgreSQL · Redis
+systems →  Rust · GPUI · Tokio
 auth    →  LDAP · AzureAD · OAuth 2.0 · Device auth flows
 ops     →  Docker · Linux internals · Git
 setup   →  Arch Linux + Neovim (lua config)
@@ -22,6 +23,8 @@ Systems programming, compiled languages, and understanding what actually happens
 
 
 ## things i've shipped
+
+› **[quarry](https://thekodeking.github.io/quarry/)** A fast desktop database client in Rust, GPU-rendered with GPUI. DataGrip's core workflow without the IDE weight: schema-aware SQL editor, a grid that edits rows and shows you the SQL before it commits, ER diagrams, SSH tunnels, import/export. Postgres, MySQL, SQLite, SQL Server, Oracle. macOS · Windows · Linux.
 
 › **[django-keysmith](https://github.com/thekodeking/django-keysmith)**
   Enterprise API key management for Django. Rotation policies, scope-based permissions, rate-limiting, audit trails.
